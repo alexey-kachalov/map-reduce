@@ -1,0 +1,23 @@
+{
+  "name": "map-reduce",
+  "version": "0.0.1",
+  "description": "Simple implementation of MapReduce approach for JavaScript arrays",
+  "main": "map-reduce.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexey-kachalov/map-reduce.git"
+  },
+  "keywords": [
+    "map",
+    "reduce",
+    "mapreduce"
+  ],
+  "author": {
+    "name": "Alexey Kachalov",
+    "email": "alexey.kachalov@gmail.com"
+  },
+  "license": "ISC"
+}
