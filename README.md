@@ -1,2 +1,2 @@
 # map-reduce
-Simple implementation of MapReduce approach for JavaScript arrays
+Simple implementation of MapReduce approach for JavaScript arrays.
